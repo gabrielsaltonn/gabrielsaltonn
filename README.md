@@ -49,4 +49,3 @@
 ### 📌 Agora
 - Evolução contínua do site da **Mapa interativo Volkswagen / SIMPRESS*.  
 - Estudos focados em **Backend e Ruby on Rails.**
-- 
