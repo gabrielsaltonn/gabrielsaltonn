@@ -14,7 +14,7 @@
 <a href="mailto:gbl.salton@gmail.com">
   <img alt="E-mail" src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="www.linkedin.com/in/gabriel-salton-5686b1219">
+<a href="www.linkedin.com/in/gabriel-salton-5686b1219" />
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
