@@ -47,6 +47,6 @@
 ---
 
 ### 📌 Agora
-- Evolução contínua do site da **Mapa interativo Volkswagen / SIMPRESS*.
+- Evolução contínua do site do **Mapa interativo Volkswagen / SIMPRESS*.
 - <a href="https://gabrielsaltonn.github.io/MapaVolkswagen"/>Mapa de impressoras/>
 - Estudos focados em **Backend e Ruby on Rails.**
