@@ -47,5 +47,5 @@
 ---
 
 ### 📌 Agora
-- Evolução contínua do site do <a https://volkswagen-mapa-testes.onrender.com/index.html> Mapa interativo Volkswagen / SIMPRESS.
+- Evolução contínua do site do https://volkswagen-mapa-testes.onrender.com/index.html Mapa de impressoras - SIMPRESS.
 - Estudos focados em **Backend e Ruby on Rails.**
